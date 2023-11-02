@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ue-sho/ue-sho/master/profile-summary-card-output/maroongold/4-productive-time.svg)
-```
-
-    
